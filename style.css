@@ -1,0 +1,20 @@
+.container{
+     width: 1200px;  
+    margin: 0 auto;  
+    padding: 0 15px;  
+}
+.imf{
+    width: 800px;
+    border-radius: 60px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.text{
+    font-size: 100px;
+    font-weight: 600;
+}
+.texi{
+    font-size: 50px;
+    font-weight: 600;
+}
